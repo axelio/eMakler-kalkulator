@@ -1,0 +1,49 @@
+.back {
+    color: #094971;
+    text-decoration: underline;
+    font-size: 24px;
+    cursor: pointer;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.results-combined {
+    padding: 20px;
+    max-width: 800px;
+}
+
+.results-info {
+    margin-bottom: 16px;
+}
+
+.stock-result {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    line-height: 1.6;
+}
+
+.stock-result:first-child {
+    border-top: 1px solid #ccc;
+}
+
+.stock-name {
+    color: #094971;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.total-result {
+    line-height: 1.6;
+    padding: 10px;
+}
+
+.total-result-summary {
+    color: #094971;
+    font-size: 18px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}

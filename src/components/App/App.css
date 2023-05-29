@@ -1,0 +1,27 @@
+.app {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 20px 0px 20px;
+}
+
+.makler-header {
+    font-size: 36px;
+    color: #094971;
+    margin-bottom: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* .contact {
+    color: #094971;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 20px;
+} */
+
+.contact:hover {
+    text-decoration: underline;
+}

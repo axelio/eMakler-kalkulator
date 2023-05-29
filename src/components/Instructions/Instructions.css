@@ -1,0 +1,28 @@
+.instructions-header {
+    text-align: center;
+    font-size: 18px;
+    max-width: 400px;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-top: 44px;
+    margin-bottom: 8px;
+}
+
+.instructions {
+    font-size: 16px;
+    text-align: justify;
+    max-width: 400px;
+    line-height: 1.6;
+    width: 100%;
+}
+
+.instructions ul {
+    margin-top: 10px;
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.instructions li {
+    margin-bottom: 10px;
+}

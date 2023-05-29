@@ -1,0 +1,34 @@
+.csvInput {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 400px;
+  width: 100%;
+  height: 150px;
+  border: 2px dashed #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease;
+}
+
+.csvInput.dragging {
+  border-color: #094971;
+}
+
+.csvInput .inputField {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.csvInput .text {
+  font-size: 16px;
+  color: #333;
+}
+
+.csvInput input[type="file"] {
+  display: none;
+}

@@ -1,0 +1,19 @@
+.privacy-info {
+    font-size: 16px;
+    margin-bottom: 36px;
+    text-align: justify;
+    max-width: 400px;
+    line-height: 1.6;
+    width: 100%;
+}
+
+.privacy-header {
+    text-align: center;
+    font-size: 18px;
+    max-width: 400px;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-top: 28px;
+    margin-bottom: 8px;
+}
