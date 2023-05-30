@@ -48,7 +48,7 @@ const updateStockResult = (result: StockResult, tran: Transaction) => {
         result.sell += totalValue;
         result.soldCnt += amount;
     } else if (tran.type === buyOperation) {
-        result.buy += totalValue
+        result.buy += totalValue;
         result.boughtCnt += amount;
     }
     else {
