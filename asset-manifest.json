@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/makler-calc/static/css/main.959cab5d.css",
-    "main.js": "/makler-calc/static/js/main.909dd55a.js",
-    "static/js/787.28825134.chunk.js": "/makler-calc/static/js/787.28825134.chunk.js",
-    "index.html": "/makler-calc/index.html",
-    "main.959cab5d.css.map": "/makler-calc/static/css/main.959cab5d.css.map",
-    "main.909dd55a.js.map": "/makler-calc/static/js/main.909dd55a.js.map",
-    "787.28825134.chunk.js.map": "/makler-calc/static/js/787.28825134.chunk.js.map"
+    "main.css": "/eMakler-kalkulator/static/css/main.959cab5d.css",
+    "main.js": "/eMakler-kalkulator/static/js/main.57ba14c4.js",
+    "static/js/787.28825134.chunk.js": "/eMakler-kalkulator/static/js/787.28825134.chunk.js",
+    "index.html": "/eMakler-kalkulator/index.html",
+    "main.959cab5d.css.map": "/eMakler-kalkulator/static/css/main.959cab5d.css.map",
+    "main.57ba14c4.js.map": "/eMakler-kalkulator/static/js/main.57ba14c4.js.map",
+    "787.28825134.chunk.js.map": "/eMakler-kalkulator/static/js/787.28825134.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.959cab5d.css",
-    "static/js/main.909dd55a.js"
+    "static/js/main.57ba14c4.js"
   ]
 }
