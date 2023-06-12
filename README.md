@@ -1,4 +1,4 @@
-https://axelio.github.io/makler-calc/
+[https://axelio.github.io/makler-calc/](https://axelio.github.io/eMakler-kalkulator/)
 
 Kalkulator do liczenia wyników transakcji z plików CSV wygenerowanych w eMaklerze (mBank).
 
